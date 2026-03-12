@@ -44,12 +44,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astromy33@gmail.com&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <h3 align="center">🐍 Моя активность (Snake Game)</h3>
 <div align="center">
-  <img src="https://github.com/ТВОЙ_GITHUB_USERNAME/ТВОЙ_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/astromy33-netizen/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
